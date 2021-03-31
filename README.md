@@ -7,13 +7,14 @@
   <a href="#"><img src="https://img.shields.io/badge/scikit--learn-user-green?logo=scikit-learn"></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-experience-green?logo=postgresql></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-knime--nodes-green?logo=java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-web--applications-green?logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-web--applications-green?logo=php"></a>
 </p>
 
-OK, wasted too much time playing around with shields.io. :grin:
+OK, wasted way too much time playing around with shields.io. :grin:
 
-**Additional skills**:
+### Additional skills
 
+- xgboost
 - FastAPI
 - Django
 - ChemDraw (cdx and cdxml file formats)
@@ -24,3 +25,10 @@ OK, wasted too much time playing around with shields.io. :grin:
 - Apache Web Server
 - Nexus OSS Repository Manager
 - Ubuntu
+- Knowledge about modern hardware
+
+### Looking for contributors
+
+- [RDKit Molecule slide generator](https://github.com/kienerj/molecule-slide-generator)
+
+More to follow soonish
