@@ -1,4 +1,4 @@
-10+ years experince in Research Informatics around system administration, database design, software engineering, data processing (ETL), data analysis and machine learning.
+10+ years experince in Research Informatics in fragrance research around system administration, database design, software engineering, data processing (ETL), data analysis and machine learning.
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/python-master-green?logo=python"></a>
