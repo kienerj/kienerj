@@ -24,10 +24,12 @@ OK, wasted way too much time playing around with shields.io. :grin:
 - Nexus OSS Repository Manager
 - Knowledge about modern hardware
 - **IT Problem solving**
-- **Setting up new "stuff" and documenting the process**
+- **Setting up new "stuff" and documenting the process**<sup>1</sup>
 
 ### Looking for contributors
 
 - [RDKit Molecule slide generator](https://github.com/kienerj/molecule-slide-generator)
 
 More to follow soonish
+
+<sup>1</sup>My large repository of guides would probably the most valuble thing to put into a repository but it would simply expose too much internal details.
