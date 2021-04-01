@@ -14,18 +14,16 @@ OK, wasted way too much time playing around with shields.io. :grin:
 
 ### Additional skills
 
-- xgboost
-- FastAPI
-- Django
-- ChemDraw (cdx and cdxml file formats)
-- PySpark
-- Elasticsearch
-- IT Problem solving
-- Setting up new "stuff" and documenting the process
-- Apache Web Server
+- FastAPI, Django
+- HTML, CSS and JS
+- Ubuntu, Apache Web Server
+- Cheminformatics, ChemDraw (cdx and cdxml file formats)
+- Machine Learning
+- PySpark, Elasticsearch, redis
 - Nexus OSS Repository Manager
-- Ubuntu
 - Knowledge about modern hardware
+- **IT Problem solving**
+- **Setting up new "stuff" and documenting the process**
 
 ### Looking for contributors
 
