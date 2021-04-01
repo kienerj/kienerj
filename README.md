@@ -14,8 +14,9 @@ OK, wasted way too much time playing around with shields.io. :grin:
 
 ### Additional skills
 
-- FastAPI, Django
+- FastAPI, Django, cherrypy
 - HTML, CSS and JS
+- SQL (Oracle & PostgreSQL)
 - Ubuntu, Apache Web Server
 - Cheminformatics, ChemDraw (cdx and cdxml file formats)
 - Machine Learning
